@@ -1,0 +1,4 @@
+Version,Prompt,Response Summary,Rating (1-5),Outcome,Notes
+V1,Summarize the following text,Too long,3,Average,Included extra details
+V2,Give me a TL;DR in 2 lines,Short and to the point,5,Great,Perfect summary
+V3,What's the key message here?,Not clear,2,Poor,Missed important info
