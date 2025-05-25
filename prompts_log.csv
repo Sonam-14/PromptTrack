@@ -2,3 +2,5 @@ Version,Prompt,Response Summary,Rating (1-5),Outcome,Notes
 V1,Summarize the following text,Too long,3,Average,Included extra details
 V2,Give me a TL;DR in 2 lines,Short and to the point,5,Great,Perfect summary
 V3,What's the key message here?,Not clear,2,Poor,Missed important info
+V4,"Summarize this email: Hey Sonam, just a reminder your class starts at 9am tomorrow.","Sonam's class starts at 9 AM tomorrow.",4,Good,Captured info but slightly reworded
+V5,"TL;DR: Hey Sonam, class at 9am.","Sonam has a class at 9 AM.",5,Excellent,Very short and clear
