@@ -26,3 +26,18 @@ See `/screenshots` for output examples.
 - GitHub
 - OpenAI Playground or Gemini
 - CSV and Markdown
+
+---
+
+## 🧩 Hackathon Submission Note
+
+This project was built as part of the DevOps for GenAI Hackathon 2025.
+
+🎯 Goal: Help GenAI users track and refine prompts through experimentation and versioning.
+
+📋 Submission Includes:
+- `prompts_log.csv` for tracking prompt versions and outcomes
+- Screenshots from Google Gemini
+- README for understanding and reproducing the workflow
+
+Built and submitted by: Sonam Chauhan
